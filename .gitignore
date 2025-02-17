@@ -1,0 +1,12 @@
+# Ignore everything by default
+##*
+
+# Do not ignore these files/directories
+#!.gitignore
+#!README.md
+#!docs/
+#!rtl/
+#!physical_design/scripts/
+#!physical_design/constraints/
+#!verif/testbenches/
+#!synopsys/
